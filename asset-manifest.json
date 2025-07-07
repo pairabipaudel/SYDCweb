@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SYDCweb/static/css/main.33dd9022.css",
+    "main.js": "/SYDCweb/static/js/main.b32e61ba.js",
+    "static/media/group.png": "/SYDCweb/static/media/group.6b767c53f418e7eb10c3.png",
+    "static/media/logo.png": "/SYDCweb/static/media/logo.9daa6c7a067887aa9336.png",
+    "index.html": "/SYDCweb/index.html",
+    "main.33dd9022.css.map": "/SYDCweb/static/css/main.33dd9022.css.map",
+    "main.b32e61ba.js.map": "/SYDCweb/static/js/main.b32e61ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dd9022.css",
+    "static/js/main.b32e61ba.js"
+  ]
+}
